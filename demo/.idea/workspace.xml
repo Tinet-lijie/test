@@ -55,10 +55,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1554175613785" expanded="true" signature="25566:25583" ph="..." />
-                <marker date="1554175613785" expanded="true" signature="25566:25601" ph="..." />
-                <marker date="1554175613785" expanded="true" signature="25566:25614" ph="..." />
-                <marker date="1554175613785" expanded="true" signature="25566:25629" ph="..." />
+                <marker date="1554175775147" expanded="true" signature="25566:25583" ph="..." />
+                <marker date="1554175775147" expanded="true" signature="25566:25601" ph="..." />
+                <marker date="1554175775147" expanded="true" signature="25566:25614" ph="..." />
+                <marker date="1554175775147" expanded="true" signature="25566:25629" ph="..." />
               </folding>
             </state>
           </provider>
@@ -305,12 +305,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554174159305</updated>
-      <workItem from="1554174160797" duration="1529000" />
+      <workItem from="1554174160797" duration="1671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1529000" />
+    <option name="totallyTimeSpent" value="1671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
@@ -371,10 +371,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1554175613785" expanded="true" signature="25566:25583" ph="..." />
-            <marker date="1554175613785" expanded="true" signature="25566:25601" ph="..." />
-            <marker date="1554175613785" expanded="true" signature="25566:25614" ph="..." />
-            <marker date="1554175613785" expanded="true" signature="25566:25629" ph="..." />
+            <marker date="1554175775147" expanded="true" signature="25566:25583" ph="..." />
+            <marker date="1554175775147" expanded="true" signature="25566:25601" ph="..." />
+            <marker date="1554175775147" expanded="true" signature="25566:25614" ph="..." />
+            <marker date="1554175775147" expanded="true" signature="25566:25629" ph="..." />
           </folding>
         </state>
       </provider>
